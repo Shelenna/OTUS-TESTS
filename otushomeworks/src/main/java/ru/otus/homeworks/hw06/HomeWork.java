@@ -19,6 +19,8 @@ public class HomeWork {
 
         Информацию о пройденном тесте предлагается выводить в System.out, а об упавшем в System.err
      */
+    // Домашнее заданий №19
+    
     public static void main(String[] args) {
 
 
